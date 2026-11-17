@@ -32,7 +32,7 @@ Licence: Creative Commons Attribution 4.0 (CC BY 4.0).
 ![Dashboard Overview](Screenshot%202026-11-17%20115441.png)
 
 ### 2. Child and Maternal Health
-![Child and Maternal Health](Screenshot%2026-11-17%115625.png)
+![Child and Maternal Health](<Screenshot 2026-11-17 115625.png>)
 
 ### 3. Immunisation
 ![Immunisation](Immunisation.png)
