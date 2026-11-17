@@ -1,0 +1,10 @@
+country_code,country_name,iso2_code,region,income_group,eac_member,currency_unit
+KEN,Kenya,KE,Sub-Saharan Africa,Lower middle income,Yes,Kenyan shilling
+UGA,Uganda,UG,Sub-Saharan Africa,Low income,Yes,Ugandan shilling
+TZA,Tanzania,TZ,Sub-Saharan Africa,Lower middle income,Yes,Tanzanian shilling
+RWA,Rwanda,RW,Sub-Saharan Africa,Low income,Yes,Rwandan franc
+BDI,Burundi,BI,Sub-Saharan Africa,Low income,Yes,Burundi franc
+SSD,South Sudan,SS,Sub-Saharan Africa,Low income,Yes,South Sudanese Pound
+COD,"Congo, Dem. Rep.",CD,Sub-Saharan Africa,Low income,Yes,Congolese franc
+SOM,"Somalia, Fed. Rep.",SO,Sub-Saharan Africa,Low income,Yes,Somali shilling
+ETH,Ethiopia,ET,Sub-Saharan Africa,Low income,No,Ethiopian birr
