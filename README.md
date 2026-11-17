@@ -35,7 +35,7 @@ Licence: Creative Commons Attribution 4.0 (CC BY 4.0).
 ![Child and Maternal Health](<Screenshot 2026-11-17 115625.png>)
 
 ### 3. Immunisation
-![Immunisation](Immunisation.png)
+![Immunisation](<Screenshot 2026-11-17 115653.png>)
 
 ### 4. Health Workforce
 ![Health Workforce](Health_Workforce.png)
