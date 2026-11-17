@@ -54,7 +54,7 @@ Licence: Creative Commons Attribution 4.0 (CC BY 4.0).
 
 ## Key Findings
 See the accompanying one-page policy brief for three evidence-based findings from the analysis.
-
+![findings](<brief policy.pdf>)
 ## Limitations
 Some countries and indicators have missing observations. Comparisons should therefore consider data availability and differences in reporting. Observed relationships do not necessarily establish causation.
 
