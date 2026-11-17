@@ -41,7 +41,7 @@ Licence: Creative Commons Attribution 4.0 (CC BY 4.0).
 ![Health Workforce](<Screenshot 2026-11-17 115708.png>)
 
 ### 5. Health Spending
-![Health Spending](Health_Spending.png)
+![Health Spending](<Screenshot 2026-11-17 115724.png>)
 
 ## Key Features
 - Interactive country, year and theme filters.
