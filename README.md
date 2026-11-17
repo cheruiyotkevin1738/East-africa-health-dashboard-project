@@ -43,6 +43,8 @@ Licence: Creative Commons Attribution 4.0 (CC BY 4.0).
 ### 5. Health Spending
 ![Health Spending](<Screenshot 2026-11-17 115724.png>)
 
+### 6.Spending vs child death
+![Spending vs child death](<Screenshot 2026-11-17 115754.png>)
 ## Key Features
 - Interactive country, year and theme filters.
 - KPI cards and country rankings.
