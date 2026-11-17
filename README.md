@@ -38,7 +38,7 @@ Licence: Creative Commons Attribution 4.0 (CC BY 4.0).
 ![Immunisation](<Screenshot 2026-11-17 115653.png>)
 
 ### 4. Health Workforce
-![Health Workforce](Health_Workforce.png)
+![Health Workforce](<Screenshot 2026-11-17 115708.png>)
 
 ### 5. Health Spending
 ![Health Spending](Health_Spending.png)
